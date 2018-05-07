@@ -1,0 +1,38 @@
+/* .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+} */
+
+.container {
+    text-align: left;
+    padding: 2px 16px;
+    background: #4BC2C5;
+    color: rgb(110, 121, 126);
+    font-family: fantasy;
+    max-width: 400px;
+    margin: 2px;
+}
+
+h4 {
+    display: inline-block;
+}
+
+.md-button {
+    margin: 20px;
+    border-radius: 10px;
+    font-size: 14px;
+    text-align: center;
+    color: rgb(198, 211, 216);
+    background: rgb(20, 84, 85);
+    font-family: fantasy;
+    float: right;
+    display: none;
+}
+
+.check {
+    text-align: left;
+    margin: 20px;
+}
+
+.through-label {
+    text-decoration: line-through;
+}
