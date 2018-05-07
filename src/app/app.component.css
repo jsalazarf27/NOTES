@@ -66,3 +66,11 @@ input {
     text-align: left;
     margin: 20px;
 }
+
+header {
+    text-align: center;
+    background: #4BC2C5;
+    max-width: 430px;
+    margin: 2px;
+    color: rgb(110, 121, 126);
+}
